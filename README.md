@@ -1,4 +1,4 @@
-This Repository contains all the necessary C++ file for Sorting Algorithms that I considered for my thesis. 
+This Repository contains all the necessary C++ files for Sorting Algorithms that I utilized for my thesis. 
 
 sorting.cpp --> contains sorting algorithms for integer data input and it records  runtime
 sortingOperators.cpp --> contains sorting algorithms with comparison and assignment operations recording
